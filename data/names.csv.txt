@@ -1,0 +1,4 @@
+Data is based on ukrainian dictionary from 
+https://github.com/LinguisticAndInformationSystems/mphdict 
+and book :Скрипник, Лариса Григорівна, Власні імена людей : слов.-довід. / Л. Г. Скрипник, Н. П. Дзятківська ; ред. В. М. Русанівський; НАН України, Ін-т мовознав. ім. О. О. Потебні. – 3-тє вид., випр. – Київ: Наук. думка, 2005. – 334 с.
+
